@@ -1,1 +1,1 @@
-![]{Learningrate.png}
+![](Learningrate.png)
